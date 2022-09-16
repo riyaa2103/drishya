@@ -63,7 +63,7 @@ function Table() {
            +parseInt(number7)+parseInt(number8)+parseInt(number9)+parseInt(number1)+parseInt(number4)+parseInt(number7)+parseInt(number2)+parseInt(number5)+parseInt(number8)+
            parseInt(number3)+parseInt(number6)+parseInt(number9))
 
-        }}>Addition</button>
+        }}>Result</button>
     </div>
   )
 }
